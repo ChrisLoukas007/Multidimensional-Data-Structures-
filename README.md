@@ -1,8 +1,6 @@
 # 📌 R-tree and LSH Implementation in Python
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)  
-[![Algorithm](https://img.shields.io/badge/Algorithm-Data%20Structures-green?style=for-the-badge&logo=codeforces)](https://en.wikipedia.org/wiki/R-tree)  
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/)  
 
 🚀 **A Python-based implementation of R-trees and Locality-Sensitive Hashing (LSH) for efficient spatial and high-dimensional data indexing.**  
 
